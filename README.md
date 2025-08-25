@@ -1,11 +1,11 @@
 # Devops-Journey-Roadmap
 "The DevOps journey roadmap is a structured step-by-step guide that helps you progress from a beginner to an advanced DevOps professional.It covers the essential foundations like Linux and Git, then moves towards automation, containerization, CI/CD pipelines, cloud, monitoring, and security. The purpose of this roadmap is to give you a clear learning path, avoid confusion, and prepare you for real-world DevOps practices and projects."
-
-What is IT?
+**
+**What is IT?**
 
 Information Technology (IT) is the use of hardware, software, networks, and security systems to manage, store, and process data for businesses.
 
-Evolution of IT:
+**Evolution of IT:**
 
 1960s → Mainframe computers.
 
@@ -19,15 +19,15 @@ Evolution of IT:
 
 2020s → DevOps, Automation, Cloud-native applications.
 
-Future of IT:
+**Future of IT:**
 AI-driven IT (self-healing systems), edge computing, quantum computing, and IT becoming the core growth driver of businesses.
 
-What is DevOps?
+**What is DevOps?**
 
 DevOps = Development + Operations.
 It is a culture, practice, and toolset that integrates developers (who build software) with operations teams (who deploy and manage it).
 
-Why DevOps emerged:
+**Why DevOps emerged:**
 
 Traditional model: developers created code, operations deployed it, leading to delays and conflicts.
 
@@ -36,7 +36,7 @@ Businesses demanded faster, reliable delivery → DevOps solved this through col
 Core Principles: Automation, Collaboration, CI/CD, Monitoring, Feedback loops.
 Tools: Git, Jenkins, Docker, Kubernetes, Terraform, Ansible, AWS, Azure.
 
-Future of DevOps:
+**Future of DevOps:**
 
 AIOps: AI + automation for proactive infrastructure management.
 
