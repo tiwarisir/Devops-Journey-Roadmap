@@ -1,7 +1,8 @@
 # Devops-Journey-Roadmap
 "The DevOps journey roadmap is a structured step-by-step guide that helps you progress from a beginner to an advanced DevOps professional.It covers the essential foundations like Linux and Git, then moves towards automation, containerization, CI/CD pipelines, cloud, monitoring, and security. The purpose of this roadmap is to give you a clear learning path, avoid confusion, and prepare you for real-world DevOps practices and projects."
 **
-**What is IT?**
+
+What is IT?**
 
 Information Technology (IT) is the use of hardware, software, networks, and security systems to manage, store, and process data for businesses.
 
