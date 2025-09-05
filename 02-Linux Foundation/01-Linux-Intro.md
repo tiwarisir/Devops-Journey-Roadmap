@@ -1,18 +1,34 @@
 # Linux Introduction
 
-## What
-Linux is an open-source operating system that powers servers, cloud, DevOps tools, and containers.
+## 🔹 What is Linux?
+Linux is an **open-source operating system** based on the Unix architecture.  
+It acts as a bridge between computer hardware and software applications.
 
-## Why
-- Most DevOps tools (Docker, Kubernetes, Ansible, Jenkins) run on Linux.  
-- Cloud servers (AWS EC2, GCP Compute, Azure VM) are usually Linux-based.  
-- Understanding Linux is **mandatory** for troubleshooting and automation.
+- Kernel → Core of the OS (manages CPU, memory, devices)  
+- Shell → Interface to interact with the Kernel (bash, sh, zsh)  
+- Distributions → Variants of Linux (Ubuntu, CentOS, Amazon Linux, Debian, etc.)
 
-## How
-- **Kernel** = Core of OS (manages CPU, memory, devices)  
-- **Shell** = Interface to communicate with Kernel (bash, zsh, sh)  
-- **Distributions** = Flavors of Linux (Ubuntu, CentOS, Amazon Linux, Debian)
+---
 
-### Check Linux version
+## 🔹 Why Linux is Important in DevOps?
+- Most **servers in cloud (AWS, GCP, Azure)** run on Linux.  
+- Core DevOps tools like **Docker, Kubernetes, Ansible, Jenkins** are Linux-based.  
+- Provides better **performance, security, and automation** capabilities.  
+- Essential for **troubleshooting production issues**.
+
+---
+
+## 🔹 How to Check Linux System Information?
+Run these commands inside your Linux VM / EC2 instance:
+
+# Show system name, kernel version
 uname -a
+
+# Show Linux distribution details
 cat /etc/os-release
+
+# Show logged-in user
+whoami
+
+# Show current directory
+pwd
