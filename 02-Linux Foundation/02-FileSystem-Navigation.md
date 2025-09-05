@@ -53,4 +53,20 @@ root:x:0:0:root:/root:/bin/bash
 daemon:x:1:1:daemon:/usr/sbin:/usr/sbin/nologin
 bin:x:2:2:bin:/bin:/usr/sbin/nologin
 
+📌 File Operations
+
+touch test.txt      # create empty file
+mkdir testdir       # create directory
+cp file1 file2      # copy file
+mv file1 file2      # rename/move file
+rm file.txt         # delete file
+rm -r dir/          # delete directory
+
+🔹 Key Points
+
+/ (root) is the starting point of everything.
+
+Learn to use ls, cd, pwd, cat, less, head, tail.
+
+File operations (cp, mv, rm) are core skills for Linux admins.
 
