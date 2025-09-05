@@ -10,7 +10,7 @@ We will start from **Linux introduction** and move towards **filesystem, users, 
 4. [Processes & Services](04-Processes-Services.md)  
 5. [Package Management](05-Packages.md)  
 6. [Networking Basics](06-Networking.md)  
-7. [Top 20 Commands]_(07-Top 20 Commands.md)
+7. [Top 20 Commands]_(07-Top-20-Commands.md)
 8. 
 > 💡 Learn each module step by step. Practice commands in a Linux VM or EC2 instance.
 
