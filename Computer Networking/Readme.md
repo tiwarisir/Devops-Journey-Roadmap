@@ -7,7 +7,7 @@ This section covers the fundamental networking concepts every DevOps engineer mu
 
 ## Topics Covered
 
-1. [Network Basics](./01-Network-Basic.md)  
+1. [Network Basics](./Network-Basic.md)  
    - OSI Model, IP Addressing (Private vs Public), IPv4 vs IPv6  
 
 2. [IP & Subnetting](./02-IP-Subnetting.md)  
