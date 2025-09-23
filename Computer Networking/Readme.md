@@ -10,25 +10,25 @@ This section covers the fundamental networking concepts every DevOps engineer mu
 1. [Network Basics](./Network-Basic.md)  
    - OSI Model, IP Addressing (Private vs Public), IPv4 vs IPv6  
 
-2. [IP & Subnetting](./02-IP-Subnetting.md)  
+2. [IP & Subnetting](./IP-Subnetting.md)  
    - CIDR notation, Subnet masks, examples  
 
-3. [DNS & DHCP](./03-DNS-DHCP.md)  
+3. [DNS & DHCP](./DNS-DHCP.md)  
    - DNS records (A, CNAME, MX, TXT), DHCP basics  
 
-4. [Firewall & Ports](./04-Firewall-Ports.md)  
+4. [Firewall & Ports](./Firewall-Ports.md)  
    - Common ports, iptables, ufw, security groups  
 
-5. [TCP vs UDP](./05-TCP-vs-UDP.md)  
+5. [TCP vs UDP](./TCP-vs-UDP.md)  
    - TCP handshake, reliability vs speed, use cases  
 
-6. [VPN & VLAN](./06-VPN-VLAN.md)  
+6. [VPN & VLAN](./VPN-VLAN.md)  
    - VPN tunneling, VLANs in enterprise networks  
 
 7. [HTTP & HTTPS](./07-HTTP-HTTPS.md)  
    - HTTP methods, SSL/TLS, certificates  
 
-8. [Load Balancers](./08-LoadBalancers.md)  
+8. [Load Balancers](./LoadBalancers.md)  
    - L4 vs L7, round robin, least connections, AWS ELB/ALB  
 
 ---
