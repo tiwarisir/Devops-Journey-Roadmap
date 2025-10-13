@@ -88,3 +88,30 @@ Switch(config-vlan)# name IT
 Switch(config)# interface fa0/1
 Switch(config-if)# switchport mode access
 Switch(config-if)# switchport access vlan 10
+
+🔹** VLAN Benefits**
+
+Improves network performance
+
+Provides logical isolation
+
+Enhances security
+
+Easier management of departments
+
+Prevents guest and internal traffic mixing
+
+🔹 **VLAN + VPN Together**
+
+In modern office and cloud setups:
+
+VLAN isolates internal traffic
+
+VPN securely connects external users or other networks
+
+Example:
+
+Function	Technology
+Department segmentation	VLAN
+Remote secure access	VPN
+Cloud private link	VPN over VLAN
