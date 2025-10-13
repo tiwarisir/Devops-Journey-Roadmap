@@ -29,7 +29,10 @@ This section covers the fundamental networking concepts every DevOps engineer mu
    - HTTP methods, SSL/TLS, certificates  
 
 8. [Load Balancers](./LoadBalancing.md)  
-   - L4 vs L7, round robin, least connections, AWS ELB/ALB  
+   - L4 vs L7, round robin, least connections, AWS ELB/ALB
+   
+9. [Firewall and NAT](./Firewall-and-NAT.md)  
+   - iptables, ufw, NAT types, security groups, cloud firewalls
 
 ---
 
