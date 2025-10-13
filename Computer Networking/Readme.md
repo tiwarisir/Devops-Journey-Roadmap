@@ -25,7 +25,7 @@ This section covers the fundamental networking concepts every DevOps engineer mu
 6. [VPN & VLAN](./VPN-VLAN.md)  
    - VPN tunneling, VLANs in enterprise networks  
 
-7. [HTTP & HTTPS](./07-HTTP-and-HTTPS.md)  
+7. [HTTP & HTTPS](./HTTP-and-HTTPS.md)  
    - HTTP methods, SSL/TLS, certificates  
 
 8. [Load Balancers](./LoadBalancing.md)  
