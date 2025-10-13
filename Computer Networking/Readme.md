@@ -28,7 +28,7 @@ This section covers the fundamental networking concepts every DevOps engineer mu
 7. [HTTP & HTTPS](./07-HTTP-HTTPS.md)  
    - HTTP methods, SSL/TLS, certificates  
 
-8. [Load Balancers](./LoadBalancers.md)  
+8. [Load Balancers](./LoadBalancing.md)  
    - L4 vs L7, round robin, least connections, AWS ELB/ALB  
 
 ---
